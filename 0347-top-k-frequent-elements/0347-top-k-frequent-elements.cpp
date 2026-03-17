@@ -10,11 +10,8 @@ public:
             return a.second > b.second;
         });
         vector<int>result;
-        int i=0,j=ans.size();
-        while(i<j && k>0){
+        for(int i=0;i<k;i++){
             result.push_back(ans[i].first);
-            k--;
-            i++;
         }
         return result;
     }
