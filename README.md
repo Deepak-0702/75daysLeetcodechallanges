@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
