@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0217-contains-duplicate) |
@@ -100,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
