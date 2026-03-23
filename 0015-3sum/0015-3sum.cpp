@@ -6,6 +6,7 @@ public:
         set<vector<int>>s;
         vector<vector<int>>ans;
         for(int i=0;i<n;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
             int j=i+1 , k=n-1;
             while(j<k){
                 int sum=nums[i]+nums[j]+nums[k];
@@ -16,14 +17,12 @@ public:
                     k--;
                 }
                 else{
-                    vector<int>tri={nums[i],nums[j],nums[k]};
-                    sort(tri.begin(),tri.end());
-                    if(s.find(tri)==s.end()){
-                        s.insert(tri);
-                        ans.push_back(tri);
-                    }
+                    ans.push_back({nums[i],nums[j],nums[k]});
                     j++;
                     k--;
+                    while(j<k && nums[j]==nums[j-1]) {
+                        j++;
+                    }
                 }
             }
         }
