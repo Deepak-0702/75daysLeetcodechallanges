@@ -6,6 +6,8 @@ public:
         for(int i=0;i<k;i++){
             sum+=nums[i];
         }
+        //add next element
+        // remove previous element
         double maxSum=sum;
         for(int i=k;i<n;i++){
             sum+=nums[i];
