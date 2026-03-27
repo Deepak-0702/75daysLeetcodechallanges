@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -148,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
