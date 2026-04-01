@@ -32,14 +32,10 @@ int update(int idx,int low,int high,int l,int target){
         for(auto &q:queries){
             int a=q[0];
             int b=q[1];
-            if(a==b){
-                ans.push_back(a);
-                continue;
-            }
             if(a>b){
                 swap(a,b);
             }
-            if(heights[a]<heights[b]){
+            if(a==b || heights[a]<heights[b]){
                 ans.push_back(b);
                 continue;
             }
