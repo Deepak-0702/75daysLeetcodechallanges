@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
 |  |
 | ------- |
@@ -172,18 +175,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0232-implement-queue-using-stacks) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
