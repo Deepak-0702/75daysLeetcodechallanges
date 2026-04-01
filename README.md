@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0232-implement-queue-using-stacks) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
