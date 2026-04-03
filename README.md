@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0790-domino-and-tromino-tiling) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 ## Matrix
 |  |
