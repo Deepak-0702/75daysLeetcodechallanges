@@ -7,6 +7,12 @@ public:
         }
         vector<pair<char,int>>vec(freq.begin(),freq.end());
         sort(vec.begin(),vec.end(),[](auto &a ,auto &b){
+            //agr lexographically smaller first
+            //matlab dono ki freq same ho gyi tab hum
+            //uska char check karengey means lexographically
+            if(a.second==b.second){
+                return a.first<b.first;
+            }
             return a.second>b.second;
         });
         string str="";
