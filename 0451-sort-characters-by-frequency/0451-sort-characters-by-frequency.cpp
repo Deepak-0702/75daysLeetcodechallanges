@@ -11,11 +11,10 @@ public:
         });
         string str="";
         for(auto &p:vec){
-            int sec=p.second;
-            while(sec>0){
-                str+=p.first;
-                sec--;
-            }
+            //this is the type constructor in c++
+            //string s = string(int count , char ch);
+            //exam string s=string(3,'a') s="aaa"
+            str+=string(p.second,p.first);
         }
         return str;
 
