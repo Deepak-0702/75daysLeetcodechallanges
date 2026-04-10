@@ -15,14 +15,14 @@ public:
         ListNode* fast = head;
 
         while(fast != NULL && fast->next != NULL) {
-            slow = slow->next;          // move 1 step
-            fast = fast->next->next;    // move 2 steps
+            slow = slow->next;          
+            fast = fast->next->next;   
 
             if(slow == fast) {
-                return true;            // cycle detected
+                return true;           
             }
         }
 
-        return false; // no cycle
+        return false; 
     }
 };
