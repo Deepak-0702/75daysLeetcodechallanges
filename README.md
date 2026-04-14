@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 ## Design
 |  |
@@ -245,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
