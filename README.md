@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
