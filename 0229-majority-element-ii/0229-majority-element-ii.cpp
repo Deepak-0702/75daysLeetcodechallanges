@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         int count1=0,candidate1=0;
-        int count2=0,candidate2=1;
+        int count2=0,candidate2=0;
         for(int num:nums){
             if(num==candidate1){
                 count1++;
