@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0242-valid-anagram) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
