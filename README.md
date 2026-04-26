@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0074-search-a-2d-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Design
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0572-subtree-of-another-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0211-design-add-and-search-words-data-structure) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
