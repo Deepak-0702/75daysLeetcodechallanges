@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0162-find-peak-element) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
