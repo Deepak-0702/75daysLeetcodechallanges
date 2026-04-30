@@ -17,7 +17,7 @@ public:
                     currentStreak++;
                 }
                 
-                longestStreak = std::max(longestStreak, currentStreak);
+                longestStreak = max(longestStreak, currentStreak);
             }
         }
 
