@@ -4,8 +4,7 @@ public:
         vector<int>ans;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            int sq=nums[i]*nums[i];
-            ans.push_back(sq);
+            ans.push_back(nums[i]*nums[i]);
         }
         sort(ans.begin(),ans.end());
         return ans;
