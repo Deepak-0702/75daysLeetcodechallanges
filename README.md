@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
