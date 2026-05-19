@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2553-separate-the-digits-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
+| [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
 |  |
