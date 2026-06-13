@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
+| [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
 ## Interactive
 |  |
 | ------- |
