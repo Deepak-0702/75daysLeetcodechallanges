@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0213-house-robber-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3783-mirror-distance-of-an-integer) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
