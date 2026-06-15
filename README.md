@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2161-partition-array-according-to-given-pivot) |
