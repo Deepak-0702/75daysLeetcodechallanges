@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2553-separate-the-digits-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3614-process-string-with-special-operations-ii) |
