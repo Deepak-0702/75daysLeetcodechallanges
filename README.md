@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0263-ugly-number) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
