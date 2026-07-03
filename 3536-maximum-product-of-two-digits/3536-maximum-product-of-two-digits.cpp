@@ -1,18 +1,21 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int>ans;
+        //agr hum nested loop ko hata chahte hai tho 
+        //as we know we the product of largest and second largest element 
+        int first=0;
+        int second=0;
         while(n>0){
             int d=n%10;
-            ans.push_back(d);
-            n=n/10;
-        }
-        int maxi=0;
-        for(int i=0;i<ans.size();i++){
-            for(int j=i+1;j<ans.size();j++){
-                maxi=max(maxi,ans[i]*ans[j]);
+            if(d>=first){
+                second=first;
+                first=d;
             }
+            else if(d>second){
+                second=d;
+            }
+            n/=10;
         }
-        return maxi;
+        return first*second;
     }
 };
