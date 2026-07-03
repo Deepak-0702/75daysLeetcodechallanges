@@ -7,9 +7,11 @@ public:
                 ans.insert(ch-'0');
             }
         }
-        vector<int>res(ans.begin(),ans.end());
-        int n=res.size();
-        if(n<2) return -1;
-        return res[n-2];
+        if(ans.size()<2) return -1;
+
+        auto it=ans.end();
+        it--;
+        it--;
+        return *it;
     }
 };
