@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0263-ugly-number) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
+| [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
