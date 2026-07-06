@@ -11,12 +11,12 @@ public:
             maxi=max(maxi,p.second);
 
         }
-        int sum=0;
-        for(int i=0;i<n;i++){
-            if(freq[nums[i]]==maxi){
-                sum++;
+        int ans=0;
+        for(auto &p:freq){
+            if(p.second==maxi){
+                ans+=p.second;
             }
         }
-        return sum;
+        return ans;
     }
 };
