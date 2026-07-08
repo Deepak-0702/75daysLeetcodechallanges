@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
+| [0740-delete-and-earn](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0790-domino-and-tromino-tiling) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
