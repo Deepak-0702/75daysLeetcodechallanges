@@ -10,15 +10,16 @@ int helper(int idx,vector<int>&points,vector<int>&dp){
     return dp[idx]=max(rob,skip);
 }
     int deleteAndEarn(vector<int>& nums) {
-        vector<int>freq(10001,0);
+        int maxi=*max_element(nums.begin(),nums.end());
+        vector<int>freq(maxi+1,0);
         for(int num:nums){
             freq[num]++;
         }
-        vector<int>points(10001,0);
-        for(int i=1;i<=10000;i++){
+        vector<int>points(maxi+1,0);
+        for(int i=1;i<=maxi;i++){
             points[i]=i*freq[i];
         }
-        vector<int>dp(10001,-1);
+        vector<int>dp(maxi+1,-1);
         return helper(0,points,dp);
     }
 };
