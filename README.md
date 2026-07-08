@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
