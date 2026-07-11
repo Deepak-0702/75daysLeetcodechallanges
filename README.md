@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
