@@ -1,21 +1,19 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int n1=s1.size();
-        int n2=s2.size();
-        if(n1>n2) return false;
-        vector<int>freq1(26,0),freq2(26,0);
-        for(char ch:s1){
-            freq1[ch-'a']++;
+        vector<int>freq1(26,0);
+        vector<int>freq2(26,0);
+        for(int i=0;i<s1.size();i++){
+            freq1[s1[i]-'a']++;
         }
-        int i=0;
-        for(int j=0;j<n2;j++){
-            freq2[s2[j]-'a']++;
-            if(j-i+1 > n1){
-                freq2[s2[i]-'a']--;
-                i++;
+        for(int i=0;i<s2.size();i++){
+            freq2[s2[i]-'a']++;
+            if(i>=s1.size()){
+                freq2[s2[i-s1.size()]-'a']--;
             }
-            if(freq1==freq2) return true;
+            if(i>=s1.size()-1 && freq1==freq2){
+                return true;
+            }
         }
         return false;
     }
