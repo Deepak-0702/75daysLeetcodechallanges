@@ -12,7 +12,7 @@ public:
             if(i>=p.length()){
                 freq2[s[i-p.length()]-'a']--;
             }
-            if(freq1==freq2){
+            if(i>=p.size()- 1 && freq1==freq2){
                 ans.push_back(i-p.length()+1);
             }
         }
