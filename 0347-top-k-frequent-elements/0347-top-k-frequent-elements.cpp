@@ -5,14 +5,17 @@ public:
         for(int num:nums){
             freq[num]++;
         }
-        vector<pair<int,int>>ans(freq.begin(),freq.end());
-        sort(ans.begin(),ans.end(),[](auto &a,auto &b){
-            return a.second > b.second;
+        vector<pair<int,int>>vec(freq.begin(),freq.end());
+        sort(vec.begin(),vec.end(),[](auto &a,auto &b){
+            return a.second>b.second;
         });
-        vector<int>result;
-        for(int i=0;i<k;i++){
-            result.push_back(ans[i].first);
+        vector<int>ans;
+        int i=0,j=vec.size();
+        while(i<j && k>0){
+            ans.push_back(vec[i].first);
+            i++;
+            k--;
         }
-        return result;
+        return ans;
     }
 };
