@@ -16,8 +16,10 @@ int helper(int i,int j,int m,int n,vector<vector<char>>&matrix,int &maxi,vector<
 
 }
     int maximalSquare(vector<vector<char>>& matrix) {
+        if(matrix.empty()) return 0;
         int m=matrix.size();
         int n=matrix[0].size();
+        
         vector<vector<int>>dp(m,vector<int>(n,-1));
         int maxi=0;
         helper(0,0,m,n,matrix,maxi,dp);
