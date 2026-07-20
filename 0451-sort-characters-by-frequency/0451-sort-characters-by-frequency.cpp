@@ -6,21 +6,20 @@ public:
             freq[ch]++;
         }
         vector<pair<char,int>>vec(freq.begin(),freq.end());
-        sort(vec.begin(),vec.end(),[](auto &a ,auto &b){
-            //agr lexographically smaller first
-            //matlab dono ki freq same ho gyi tab hum
-            //uska char check karengey means lexographically
-            if(a.second==b.second){
-                return a.first<b.first;
+        sort(vec.begin(),vec.end(),[](auto &a,auto &b){
+            if(a.second == b.second){
+                return a.first < b.first;
             }
             return a.second>b.second;
         });
         string str="";
         for(auto &p:vec){
-            //this is the type constructor in c++
-            //string s = string(int count , char ch);
-            //exam string s=string(3,'a') s="aaa"
-            str+=string(p.second,p.first);
+            int sec=p.second;
+            while(sec>0){
+                str+=p.first;
+                sec--;
+            }
+            
         }
         return str;
 
