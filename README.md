@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0518-coin-change-ii) |
