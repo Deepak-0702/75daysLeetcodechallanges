@@ -13,7 +13,7 @@ int helper(int idx,int time,vector<int>&sat,vector<vector<int>>&dp){
     int maxSatisfaction(vector<int>& satisfaction) {
         sort(satisfaction.begin(),satisfaction.end());
         int n=satisfaction.size();
-        vector<vector<int>>dp(n,vector<int>(n,-1));
+        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
         return helper(0,0,satisfaction,dp);
     }
 };
