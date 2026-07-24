@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3005-count-elements-with-maximum-frequency) |
