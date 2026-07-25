@@ -1,26 +1,24 @@
 class Solution {
 public:
-      int longestConsecutive(std::vector<int>& nums) {
-        if (nums.empty()) {
-            return 0;
-        }
-
-        std::unordered_set<int> numSet(nums.begin(), nums.end());
-        int longestStreak = 0;
-
-        for (int num : numSet) {
-            if (numSet.find(num - 1) == numSet.end()) {
-                int currentNum = num;
-                int currentStreak = 1;
-                while (numSet.find(currentNum + 1) != numSet.end()) {
-                    currentNum++;
-                    currentStreak++;
-                }
-                
-                longestStreak = max(longestStreak, currentStreak);
+    int longestConsecutive(vector<int>& nums) {
+        int n=nums.size();
+        if(n==0) return 0;
+        sort(nums.begin(),nums.end());
+        int lastSmaller=INT_MIN;
+        int count=0;
+        int longest=1;
+        for(int i=0;i<n;i++){
+            if(nums[i]-1 == lastSmaller){
+                count+=1;
+                lastSmaller=nums[i];
             }
-        }
+            else if(nums[i]!=lastSmaller){
+                count=1;
+                lastSmaller=nums[i];
+            }
+            longest=max(longest,count);
 
-        return longestStreak;
+        }
+        return longest;
     }
 };
