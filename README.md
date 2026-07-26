@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
