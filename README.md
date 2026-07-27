@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0540-single-element-in-a-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 ## Simulation
 |  |
 | ------- |
