@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0518-coin-change-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
