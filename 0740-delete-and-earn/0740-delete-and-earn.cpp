@@ -20,6 +20,6 @@ int helper(int idx,vector<int>&points,vector<int>&dp){
             points[i]=i*freq[i];
         }
         vector<int>dp(maxi+1,-1);
-        return helper(0,points,dp);
+        return helper(1,points,dp);
     }
 };
