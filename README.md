@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
 | [1388-pizza-with-3n-slices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
