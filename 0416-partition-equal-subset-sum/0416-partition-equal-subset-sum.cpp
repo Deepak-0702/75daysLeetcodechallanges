@@ -11,20 +11,23 @@ public:
             return false;
         }
         int target=sum/2;
-        //tabulation 
-        vector<vector<bool>>dp(n+1,vector<bool>(target+1,false));
-        dp[n][0]=true;
+        //space optimization
+        vector<bool>curr(sum+1,false);
+        vector<bool>next(sum+1,false);
+        curr[0]=true;
+        next[0]=true;
         for(int i=n-1;i>=0;i--){
             for(int j=0;j<=target;j++){
                 bool inc=false;
                 if(j>=nums[i]){
-                    inc=dp[i+1][j-nums[i]];    
+                    inc=next[j-nums[i]];    
                 }
-                bool excl=dp[i+1][j];
-                dp[i][j]=(inc||excl);
+                bool excl=next[j];
+                curr[j]=(inc||excl);
 
             }
+            next=curr;
         }
-        return dp[0][target];
+        return next[target];
     }
 };
