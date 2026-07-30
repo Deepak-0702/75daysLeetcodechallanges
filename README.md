@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2140-solving-questions-with-brainpower](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2140-solving-questions-with-brainpower) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2140-solving-questions-with-brainpower](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2140-solving-questions-with-brainpower) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
