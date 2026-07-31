@@ -13,7 +13,9 @@ public:
                     A=grid[i][j];
 
                 }
-                st.insert(grid[i][j]);
+                else{
+                    st.insert(grid[i][j]);
+                }
             }
         }
         int total=(m*n)*(m*n+1)/2;
