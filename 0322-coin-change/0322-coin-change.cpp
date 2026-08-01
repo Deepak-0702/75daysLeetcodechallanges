@@ -18,12 +18,11 @@ int helper(vector<int>&coins,int amount,vector<int>&dp){
     return dp[amount]=mini;
 }
     int coinChange(vector<int>& coins, int amount) {
-        int mini=INT_MAX;
         vector<int>dp(amount+1,-1);
-        int ans=helper(coins,amount,dp);
-        if(ans==INT_MAX){
+        int mini=helper(coins,amount,dp);
+        if(mini==INT_MAX){
             return -1;
         }
-        return ans;
+        return mini;
     }
 };
