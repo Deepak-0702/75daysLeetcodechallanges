@@ -1,23 +1,28 @@
 class Solution {
 public:
-int helper(int idx,int end,vector<int>&nums,vector<int>&dp){
-    if(idx>end){
-        return 0;
-    }
-    if(dp[idx]!=-1) return dp[idx];
-    int rob=nums[idx]+helper(idx+2,end,nums,dp);
-    int skip=helper(idx+1,end,nums,dp);
 
-    return dp[idx]=max(rob,skip);
-}
     int rob(vector<int>& nums) {
         int n=nums.size();
         if(n==1) return nums[0];
-        vector<int>dp1(n,-1);
-        int case1=helper(0,n-2,nums,dp1);
-        vector<int>dp2(n,-1);
-        int case2=helper(1,n-1,nums,dp2);
+
+        //tabulation
+        vector<int>dp1(n+2,0);
+        for(int i=n-2;i>=0;i--){
+            int rob=nums[i]+dp1[i+2];
+            int skip=dp1[i+1];
+            dp1[i]=max(rob,skip);
+        }
+        int case1=dp1[0];
+
+        vector<int>dp2(n+2,0);
+        for(int i=n-1;i>=1;i--){
+            int rob=nums[i]+dp2[i+2];
+            int skip=dp2[i+1];
+            dp2[i]=max(rob,skip);
+        }
+        int case2=dp2[1];
 
         return max(case1,case2);
+        
     }
 };
