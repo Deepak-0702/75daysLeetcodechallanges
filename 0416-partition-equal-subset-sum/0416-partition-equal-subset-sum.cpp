@@ -1,13 +1,12 @@
 class Solution {
 public:
 bool helper(int idx,vector<int>&nums,int target,vector<vector<int>>&dp){
+    if(idx>=nums.size()) return false;
     if(target<0) return false;
-    if(target==0 && idx==nums.size()){
+    if(target==0){
         return true;
     }
-    if(target!=0 && idx==nums.size() ){
-        return false;
-    }
+    
     if(dp[idx][target]!=-1) return dp[idx][target];
     int incl=helper(idx+1,nums,target-nums[idx],dp);
     int excl=helper(idx+1,nums,target,dp);
