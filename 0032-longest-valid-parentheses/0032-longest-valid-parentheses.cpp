@@ -4,7 +4,7 @@ public:
         stack<int>st;
         st.push(-1);
         int maxi=0;
-        for(int i=0;i<s.length();i++){
+        for(int i=0;i<s.size();i++){
             if(s[i]=='('){
                 st.push(i);
             }
@@ -14,8 +14,8 @@ public:
                     st.push(i);
                 }
                 else{
-                    int len=i-st.top();
-                    maxi=max(maxi,len);
+                    maxi=max(maxi,i-st.top());
+
                 }
             }
         }
