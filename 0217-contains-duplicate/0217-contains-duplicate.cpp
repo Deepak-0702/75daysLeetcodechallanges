@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        set<int>s;//find() → O(log n) ,insert() → O(log n)
+        unordered_set<int>s;
         for(int num:nums){
             if(s.find(num)!=s.end()){
                 return true;
@@ -9,8 +9,5 @@ public:
             s.insert(num);
         }
         return false;
-
-        //so total time complexity:- is O(n log n)
-        //so total space complexity:- is O(n)
     }
 };
