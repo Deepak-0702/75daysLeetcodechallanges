@@ -1,33 +1,29 @@
 class Solution {
 public:
+bool helper(int idx,vector<int>&nums,int target,vector<vector<int>>&dp){
+    if(target<0) return false;
+    if(target==0 && idx==nums.size()){
+        return true;
+    }
+    if(target!=0 && idx==nums.size() ){
+        return false;
+    }
+    if(dp[idx][target]!=-1) return dp[idx][target];
+    int incl=helper(idx+1,nums,target-nums[idx],dp);
+    int excl=helper(idx+1,nums,target,dp);
+
+    return dp[idx][target]=incl||excl;
+}
     bool canPartition(vector<int>& nums) {
-        int n=nums.size();
         int sum=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<nums.size();i++){
             sum+=nums[i];
         }
-        
         if(sum%2!=0){
             return false;
         }
         int target=sum/2;
-        //space optimization
-        vector<bool>curr(sum+1,false);
-        vector<bool>next(sum+1,false);
-        curr[0]=true;
-        next[0]=true;
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<=target;j++){
-                bool inc=false;
-                if(j>=nums[i]){
-                    inc=next[j-nums[i]];    
-                }
-                bool excl=next[j];
-                curr[j]=(inc||excl);
-
-            }
-            next=curr;
-        }
-        return next[target];
+        vector<vector<int>>dp(nums.size(),vector<int>(target+1,-1));
+        return helper(0,nums,target,dp);
     }
 };
