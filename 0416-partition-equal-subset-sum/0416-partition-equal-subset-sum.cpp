@@ -10,24 +10,25 @@ public:
             return false;
         }
         int target=sum/2;
-        vector<vector<bool>>dp(nums.size()+1,vector<bool>(target+1,false));
+        vector<bool>curr(sum+1,false);
+        vector<bool>next(sum+1,false);
 
-        for(int i = 0; i <= nums.size(); i++)
-            dp[i][0] = true;
-        
+        curr[0]=true;
+        next[0]=true;
         for(int idx=nums.size()-1;idx>=0;idx--){
             for(int j=0;j<=target;j++){
 
                 bool take=false;
                 if(j>=nums[idx]){
-                    take=dp[idx+1][j-nums[idx]];
+                    take=next[j-nums[idx]];
                 }
-                bool nottake=dp[idx+1][j];
+                bool nottake=next[j];
 
-                dp[idx][j]=take ||nottake;
+                curr[j]=take ||nottake;
             }
+            next=curr;
         }
-        return dp[0][target];
+        return next[target];
 
     }
 };
