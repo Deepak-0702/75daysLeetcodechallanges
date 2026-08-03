@@ -12,7 +12,8 @@ public:
         int target=sum/2;
         vector<vector<bool>>dp(nums.size()+1,vector<bool>(target+1,false));
 
-        dp[nums.size()][0]=true;
+        for(int i = 0; i <= nums.size(); i++)
+            dp[i][0] = true;
         
         for(int idx=nums.size()-1;idx>=0;idx--){
             for(int j=0;j<=target;j++){
