@@ -1,18 +1,6 @@
 class Solution {
 public:
-bool helper(int idx,vector<int>&nums,int target,vector<vector<int>>&dp){
-    if(idx>=nums.size()) return false;
-    if(target<0) return false;
-    if(target==0){
-        return true;
-    }
-    
-    if(dp[idx][target]!=-1) return dp[idx][target];
-    int incl=helper(idx+1,nums,target-nums[idx],dp);
-    int excl=helper(idx+1,nums,target,dp);
 
-    return dp[idx][target]=incl||excl;
-}
     bool canPartition(vector<int>& nums) {
         int sum=0;
         for(int i=0;i<nums.size();i++){
@@ -22,7 +10,23 @@ bool helper(int idx,vector<int>&nums,int target,vector<vector<int>>&dp){
             return false;
         }
         int target=sum/2;
-        vector<vector<int>>dp(nums.size(),vector<int>(target+1,-1));
-        return helper(0,nums,target,dp);
+        vector<vector<bool>>dp(nums.size()+1,vector<bool>(target+1,false));
+
+        dp[nums.size()][0]=true;
+        
+        for(int idx=nums.size()-1;idx>=0;idx--){
+            for(int j=0;j<=target;j++){
+
+                bool take=false;
+                if(j>=nums[idx]){
+                    take=dp[idx+1][j-nums[idx]];
+                }
+                bool nottake=dp[idx+1][j];
+
+                dp[idx][j]=take ||nottake;
+            }
+        }
+        return dp[0][target];
+
     }
 };
