@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0983-minimum-cost-for-tickets) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
+| [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
+| [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
 | [1755-closest-subsequence-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1755-closest-subsequence-sum) |
 ## Simulation
 |  |
