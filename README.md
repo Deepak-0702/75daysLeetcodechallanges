@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0015-3sum) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0307-range-sum-query-mutable) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0035-search-insert-position) |
