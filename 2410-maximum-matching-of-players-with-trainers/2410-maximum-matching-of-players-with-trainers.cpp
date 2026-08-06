@@ -7,17 +7,12 @@ public:
         int n2=trainers.size();
         int i=0;
         int j=0;
-        int count=0;
         while(i<n1 && j<n2){
             if(players[i]<=trainers[j]){
-                count++;
                 i++;
-                j++;
             }
-            else{
-                j++;
-            }
+            j++;
         }
-        return count;
+        return i;
     }
 };
