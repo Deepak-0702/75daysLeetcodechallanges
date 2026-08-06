@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0496-next-greater-element-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1388-pizza-with-3n-slices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1388-pizza-with-3n-slices) |
@@ -750,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0032-longest-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
