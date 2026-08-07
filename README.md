@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0416-partition-equal-subset-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0876-middle-of-the-linked-list) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
