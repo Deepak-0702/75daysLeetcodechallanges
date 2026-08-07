@@ -9,8 +9,6 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i]%2!=0){
                 oddcount+=1;
-            }else{
-                oddcount+=0;
             }
 
             if(mp.count(oddcount-k)){
