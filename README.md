@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
