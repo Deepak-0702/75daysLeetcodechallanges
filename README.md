@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0216-combination-sum-iii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
