@@ -19,7 +19,7 @@ vector<vector<int>>&image,vector<vector<bool>>&vis){
         vector<vector<bool>>vis(m,vector<bool>(n,false));
 
         int originalColr=image[sr][sc];
-
+        if(originalColr==color) return image;
         dfs(sr,sc,m,n,color,originalColr,image,vis);
         return image;
 
