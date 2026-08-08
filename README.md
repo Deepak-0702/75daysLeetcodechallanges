@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1905-count-sub-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sliding Window
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -744,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
 | [1755-closest-subsequence-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1755-closest-subsequence-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
