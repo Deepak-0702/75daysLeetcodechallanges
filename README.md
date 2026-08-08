@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
 |  |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2553-separate-the-digits-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
@@ -829,4 +834,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0494-target-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
