@@ -2,16 +2,12 @@ class Solution {
 public:
 bool issorted(vector<int>&nums){
     int n=nums.size();
-    bool flag=true;
     for(int i=0;i<n-1;i++){
         if(nums[i]>nums[i+1]){
-            flag=false;
+            return false;
         }
     }
-    if(flag){
-        return true;
-    }
-    return false;
+    return true;
 }
     int minimumPairRemoval(vector<int>& nums) {
         if(issorted(nums)) return 0;
@@ -28,8 +24,9 @@ bool issorted(vector<int>&nums){
                 }
             }
             nums[idx]=mini;
-            count++;
+            
             nums.erase(nums.begin()+idx+1);
+            count++;
         }
         return count;
     }
