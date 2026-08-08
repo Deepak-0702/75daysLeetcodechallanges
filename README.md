@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2785-sort-vowels-in-a-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3731-find-missing-elements) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
