@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0322-coin-change) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
@@ -800,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
