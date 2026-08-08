@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2553-separate-the-digits-in-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0713-subarray-product-less-than-k) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2540-minimum-common-value) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
