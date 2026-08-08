@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3833-count-dominant-indices) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3834-merge-adjacent-equal-elements) |
 ## Queue
 |  |
 | ------- |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3614-process-string-with-special-operations-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3834-merge-adjacent-equal-elements) |
 | [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
