@@ -3,21 +3,20 @@ public:
     int dominantIndices(vector<int>& nums) {
         int n=nums.size();
         int ways=0;
+        vector<int>suffix(n+1,0);
+        
+        for(int i=n-1;i>=0;i--){
+            suffix[i]=suffix[i+1]+nums[i];
+        }
+        int count=0;
         for(int i=0;i<n-1;i++){
-            int sum=0;
-            int count=0;
-            for(int j=i+1;j<n;j++){
-                sum+=nums[j];
+            int sum=suffix[i+1];
+            int l=n-i-1;
+            int avg=sum/l;
+            if(nums[i]>avg){
                 count++;
             }
-            int avg;
-            if(count!=0){
-                avg=sum/count;
-            }
-            if(nums[i]>avg){
-                ways++;
-            }
         }
-        return ways;
+        return count;
     }
 };
