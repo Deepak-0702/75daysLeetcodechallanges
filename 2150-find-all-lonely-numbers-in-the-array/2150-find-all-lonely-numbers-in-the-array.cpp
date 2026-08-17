@@ -6,9 +6,11 @@ public:
             freq[num]++;
         }
         vector<int>ans;
-        for(int p:nums){
-            if(freq[p]==1 && freq[p+1]==0 && freq[p-1]==0){
-                ans.push_back(p);
+        for(auto &p:freq){
+            int key=p.first;
+            int val=p.second;
+            if(val==1 && freq.find(key-1)==freq.end() && freq.find(key+1)==freq.end() ){
+                ans.push_back(key);
             }
         }
         return ans;
