@@ -6,9 +6,9 @@ public:
             freq[num]++;
         }
         vector<int>ans;
-        for(int x:nums){
-            if(freq[x]==1 && freq[x-1]==0 && freq[x+1]==0){
-                ans.push_back(x);
+        for(int p:nums){
+            if(freq[p]==1 && freq[p+1]==0 && freq[p-1]==0){
+                ans.push_back(p);
             }
         }
         return ans;
