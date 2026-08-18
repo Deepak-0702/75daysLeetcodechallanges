@@ -20,3 +20,27 @@ int helper(int idx,vector<int>&nums,int k,vector<int>&dp){
         return helper(0,arr,k,dp);
     }
 };
+
+
+/*│
+├── [5] → 5 + helper(1)
+│           │
+│           ├── [2] → 2 + helper(2)
+│           │           │
+│           │           ├── [3] → 3 + helper(3)
+│           │           │           │
+│           │           │           └── [4] → 4
+│           │           │           │
+│           │           │           └── 7
+│           │           │
+│           │           └── [3,4] → 8
+│           │
+│           └── helper(1) = 10
+│
+│       total = 5 + 10 = 15
+│
+└── [5,2] → 10 + helper(2)
+                │
+                └── helper(2) = 8
+
+        total = 10 + 8 = 18*/
