@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2140-solving-questions-with-brainpower](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2140-solving-questions-with-brainpower) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1755-closest-subsequence-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
 ## Enumeration
