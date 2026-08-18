@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0713-subarray-product-less-than-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
