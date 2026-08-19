@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1043-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
 | [1388-pizza-with-3n-slices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1388-pizza-with-3n-slices) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
@@ -883,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
