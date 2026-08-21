@@ -6,16 +6,16 @@ public:
             char ch=strs[0][i];
             bool match=true;
             for(int j=1;j<strs.size();j++){
-                if(ch!=strs[j][i]){
+                char ch1=strs[j][i];
+                if(ch!=ch1){
                     match=false;
-                    break;
                 }
             }
-            if(match==false){
+            if(!match){
                 break;
             }
             else{
-                ans.push_back(ch);
+                ans+=ch;
             }
         }
         return ans;
