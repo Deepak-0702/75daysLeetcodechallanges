@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0740-delete-and-earn) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0890-find-and-replace-pattern) |
