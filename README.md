@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1927-sum-game) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1927-sum-game) |
 ## Bracket Sequences
 |  |
 | ------- |
