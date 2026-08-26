@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1755-closest-subsequence-sum) |
 | [1824-minimum-sideway-jumps](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1824-minimum-sideway-jumps) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2063-vowels-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2140-solving-questions-with-brainpower) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2063-vowels-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2063-vowels-of-all-substrings) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2785-sort-vowels-in-a-string) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2063-vowels-of-all-substrings) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2965-find-missing-and-repeated-values) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2063-vowels-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2063-vowels-of-all-substrings) |
 ## Binary Search Tree
 |  |
 | ------- |
