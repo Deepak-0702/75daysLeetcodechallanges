@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2785-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
