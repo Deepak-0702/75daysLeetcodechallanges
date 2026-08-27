@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1331-rank-transform-of-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
