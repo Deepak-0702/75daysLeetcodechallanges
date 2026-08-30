@@ -1,19 +1,18 @@
 class Solution {
 public:
     int minDeletions(string s) {
-        unordered_map<char,int>freq;
+        vector<int>freq(26,0);
         for(char c:s){
-            freq[c]++;
+            freq[c-'a']++;
         }
-        set<int>st;
+        unordered_set<int>st;
         int count=0;
-        for(auto &p:freq){
-            int val=p.second;
-            while(st.count(val)&& val>0){
+        for(int f:freq){
+            while(st.count(f)&& f>0){
                 count++;
-                val--;
+                f--;
             }
-            st.insert(val);
+            st.insert(f);
         }
         return count;
     }
