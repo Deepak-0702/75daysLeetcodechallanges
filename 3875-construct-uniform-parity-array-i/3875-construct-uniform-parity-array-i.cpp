@@ -1,45 +1,21 @@
 class Solution {
 public:
-bool isodd(vector<int>&nums1){
-    bool flag=false;
-    for(int num:nums1){
-        if(num%2!=0){
-            flag=true;
-        }
-    }
-    if(flag){
-        return true;
-    }
-    return false;
-}
-bool iseven(vector<int>&nums1){
-    bool flag=false;
-    for(int num:nums1){
-        if(num%2==0){
-            flag=true;
-        }
-    }
-    if(flag){
-        return true;
-    }
-    return false;
-}
-    bool uniformArray(vector<int>& nums1) {
-        int idx=0;
-        int ans=0;
-        for(int num:nums1){
+    bool uniformArray(vector<int>& nums) {
+        int even=0;
+        int odd=0;
+        for(int num:nums){
             if(num%2==0){
-                nums1[idx]=num;
-                ans=num;
-                idx++;
+                even++;
             }
             else{
-                nums1[idx]=num-ans;
-                ans=num;
-                idx++;
+                odd++;
             }
         }
-        if(iseven(nums1) || isodd(nums1)) return true;
-        return false;
+        if(even==nums.size() || odd==nums.size()) return true;
+
+        // Agar dono parity present hain,
+        // kisi odd-even pair ka difference odd hoga.
+        // Is odd difference ko subtract karke parity change kar sakte hain.
+        return true;
     }
 };
