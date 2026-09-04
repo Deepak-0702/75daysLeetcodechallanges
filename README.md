@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
+| [3903-smallest-stable-index-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
