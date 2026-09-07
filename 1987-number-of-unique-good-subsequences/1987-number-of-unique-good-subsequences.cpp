@@ -12,13 +12,9 @@ public:
             if (ch == '0') {
                 hasZero = true;
 
-                // Existing 1-starting subsequences ke end
-                // me 0 add kar sakte hain
                 dp0 = (dp0 + dp1) % MOD;
             }
             else {
-                // Existing dp0 + dp1 ke end me 1 add karo
-                // + "1" khud
                 dp1 = (dp0 + dp1 + 1) % MOD;
             }
         }
