@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1043-partition-array-for-maximum-sum) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1143-longest-common-subsequence) |
