@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
 | [3833-count-dominant-indices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3833-count-dominant-indices) |
 ## Sliding Window
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
