@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2094-finding-3-digit-even-numbers) |
 | [2140-solving-questions-with-brainpower](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1755-closest-subsequence-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3546-equal-sum-grid-partition-i) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
