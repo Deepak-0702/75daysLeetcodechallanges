@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0045-jump-game-ii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0091-decode-ways) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0491-non-decreasing-subsequences) |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0032-longest-valid-parentheses) |
 ## Quicksort
 |  |
