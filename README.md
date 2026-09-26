@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0875-koko-eating-bananas](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0877-stone-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0740-delete-and-earn) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0890-find-and-replace-pattern](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0930-binary-subarrays-with-sum) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0646-maximum-length-of-pair-chain) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1331-rank-transform-of-an-array) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0583-delete-operation-for-two-strings) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0713-subarray-product-less-than-k) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1539-kth-missing-positive-number) |
@@ -882,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 ## Union-Find
 |  |
 | ------- |
