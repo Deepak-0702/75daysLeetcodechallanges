@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0516-longest-palindromic-subsequence) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0876-middle-of-the-linked-list) |
