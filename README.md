@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0583-delete-operation-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0940-distinct-subsequences-ii) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
