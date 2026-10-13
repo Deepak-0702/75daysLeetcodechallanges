@@ -6,15 +6,16 @@ public:
         for(int num:nums){
             sq.push_back(1LL*num*num);
         }
-        sort(sq.begin(),sq.end());
-        long long ans=0;
+
         int n=sq.size();
-        for(int i=0;i<n;i++){
-            if(i<n/2){
-                ans-=sq[i];
-            }else{
-                ans+=sq[i];
-            }
+        int mid=n/2;
+        nth_element(sq.begin(),sq.begin()+mid,sq.end());
+        long long ans=0;
+        for(int i=0;i<mid;i++){
+            ans-=sq[i];
+        }
+        for(int i=mid;i<n;i++){
+            ans+=sq[i];
         }
         return ans;
     }
