@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0377-combination-sum-iv) |
+| [0414-third-maximum-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0628-maximum-product-of-three-numbers) |
