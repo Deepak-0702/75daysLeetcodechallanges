@@ -5,9 +5,9 @@ public:
         sort(temp.begin(),temp.end());
         unordered_map<int,int>mp;
         int rank=1;
-        for(int num:temp){
-            if(mp.find(num)==mp.end()){
-                mp[num]=rank;
+        for(int x:temp){
+            if(mp.find(x)==mp.end()){
+                mp[x]=rank;
                 rank++;
             }
         }
