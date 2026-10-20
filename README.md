@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1922-count-good-numbers) |
