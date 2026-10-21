@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1796-second-largest-digit-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2094-finding-3-digit-even-numbers) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1927-sum-game) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2206-divide-array-into-equal-pairs) |
