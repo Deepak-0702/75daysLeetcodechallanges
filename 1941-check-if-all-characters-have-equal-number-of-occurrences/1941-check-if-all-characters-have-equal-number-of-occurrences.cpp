@@ -1,18 +1,14 @@
 class Solution {
 public:
     bool areOccurrencesEqual(string s) {
-        vector<int>freq(26,0);
+        unordered_map<char,int>mp;
         for(char ch:s){
-            freq[ch-'a']++;
+            mp[ch]++;
         }
-        int tar=0;
-        for(int i=0;i<26;i++){
-            if(freq[i]>0){
-                if(tar==0){
-                    tar=freq[i];
-                }else if(freq[i]!=tar){
-                    return false;
-                }
+        int freq=mp[s[0]];
+        for(auto &p:mp){
+            if(p.second!=freq){
+                return false;
             }
         }
         return true;
