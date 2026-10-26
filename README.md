@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1905-count-sub-islands) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1905-count-sub-islands) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1905-count-sub-islands) |
@@ -949,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
