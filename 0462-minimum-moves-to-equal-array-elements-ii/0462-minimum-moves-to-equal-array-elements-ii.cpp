@@ -6,7 +6,7 @@ public:
         int mid=nums[n/2];
         int ans=0;
         for(int num:nums){
-            ans+=abs(num-mid);
+            ans+=abs(num-mid)/1;
         }
         return ans;
     }
