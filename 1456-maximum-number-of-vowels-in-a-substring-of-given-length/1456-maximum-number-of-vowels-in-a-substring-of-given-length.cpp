@@ -10,9 +10,7 @@ bool isVowels(char ch){
         int ans=0;
         for(int j=0;j<s.size();j++){
             len++;
-            if(isVowels(s[j])){
-                coVo++;
-            }
+            
             while(len>k){
                 if(isVowels(s[i])){
                     coVo--;
@@ -21,7 +19,9 @@ bool isVowels(char ch){
                 i++;
                 len--;
             }
-            
+            if(isVowels(s[j])){
+                coVo++;
+            }
             ans=max(ans,coVo);
         }
         return ans;
