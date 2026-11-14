@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             int sum=0;
             int sz=0;
-            for(int j=i;j<n && sz<r;j++){
+            for(int j=i;j<n ;j++){
                 sum+=nums[j];
                 sz++;
                 if(sz>=l && sz<=r && sum>0){
