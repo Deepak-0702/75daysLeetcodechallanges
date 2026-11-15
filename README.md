@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1388-pizza-with-3n-slices](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1402-reducing-dishes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1755-closest-subsequence-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1755-closest-subsequence-sum) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1903-largest-odd-number-in-string) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3432-count-partitions-with-even-sum-difference) |
