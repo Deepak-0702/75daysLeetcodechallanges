@@ -8,11 +8,9 @@ public:
         while(i<n-1){
             if(s[i]!=s[i+1]){
                 count++;
-                i+=2;
+                
             }
-            else{
-                i++;
-            }
+            i+=2;
         }
         return count;
     }
