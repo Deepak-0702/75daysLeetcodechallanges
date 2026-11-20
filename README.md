@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-number-of-unique-good-subsequences](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2140-solving-questions-with-brainpower) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3620-network-recovery-pathways](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3620-network-recovery-pathways) |
 | [3693-climbing-stairs-ii](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3035-maximum-palindromes-after-operations) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Deepak-0702/75daysLeetcodechallanges/tree/master/3731-find-missing-elements) |
